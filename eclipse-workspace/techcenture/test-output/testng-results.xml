@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47735" started-at="2020-02-21T12:13:39 EST" finished-at="2020-02-21T12:14:27 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47735" started-at="2020-02-21T12:13:39 EST" finished-at="2020-02-21T12:14:27 EST">
+      <class name="com.herokuapp.testleaf.Alert">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.testleaf.Alert@131276c2]" name="setUp" is-config="true" duration-ms="23418" started-at="2020-02-21T12:13:39 EST" finished-at="2020-02-21T12:14:02 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.herokuapp.testleaf.Alert@131276c2]" name="test4" duration-ms="5399" started-at="2020-02-21T12:14:02 EST" finished-at="2020-02-21T12:14:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.herokuapp.testleaf.Alert@131276c2]" name="login" duration-ms="6187" started-at="2020-02-21T12:14:08 EST" finished-at="2020-02-21T12:14:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="accountPage()[pri:2, instance:com.herokuapp.testleaf.Alert@131276c2]" name="accountPage" duration-ms="4313" started-at="2020-02-21T12:14:14 EST" finished-at="2020-02-21T12:14:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountPage -->
+        <test-method status="PASS" signature="test3()[pri:3, instance:com.herokuapp.testleaf.Alert@131276c2]" name="test3" duration-ms="8263" started-at="2020-02-21T12:14:18 EST" finished-at="2020-02-21T12:14:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.testleaf.Alert@131276c2]" name="tearDown" is-config="true" duration-ms="104" started-at="2020-02-21T12:14:27 EST" finished-at="2020-02-21T12:14:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuapp.testleaf.Alert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
